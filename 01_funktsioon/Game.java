@@ -34,7 +34,7 @@ public class Game {
             switch (input) {
                 case "a":
                     playerCoordinateX--;
-                    break;
+                     break;
                 case "s":
                     playerCoordinateY++;
                     break;
