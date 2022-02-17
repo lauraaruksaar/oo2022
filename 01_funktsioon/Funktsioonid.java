@@ -15,6 +15,7 @@ public class Funktsioonid {
     public static double taksosõit(double h) {
         return 3+0.8*h; // funktsioon selleks, et midagi saada
     }
+
     //void on selleks et midagi teha
     public static void prindiForTsükkel(int kordadeArv) {
         for (int i = 0; i < kordadeArv; i++) {
