@@ -7,7 +7,7 @@ public class SõidukMain {
         System.out.println(two);
 
         one.KütusekuluHinnaKalkolaator(80,2);
-        two.KütusekuluHinnaKalkolaator(80,1);
+        two.KütusekuluHinnaKalkolaator(180,1);
 
     }
 }

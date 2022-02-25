@@ -12,7 +12,7 @@ public class Sõiduk {
         }
 
         public void KütusekuluHinnaKalkolaator(float teekonnaPikkus, float kütuseühikuHind){
-            System.out.println(((teekonnaPikkus * kütusekuluSajale) / 100) * kütuseühikuHind);
+            System.out.println(((teekonnaPikkus * kütusekuluSajale) / 100) * kütuseühikuHind + "eur");
 
         }
     @Override
@@ -21,7 +21,7 @@ public class Sõiduk {
                 "automark='" + automark + '\'' +
                 ", värv=" + värv +
                 ", kütusekuluSajale=" + kütusekuluSajale +
-                ", sõidukitüüp=" + auto +
+                ", sõidukitüüp auto=" + auto +
                 '}';
     }
 }
