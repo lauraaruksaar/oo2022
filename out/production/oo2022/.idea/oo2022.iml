@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_klass" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_klassikomplekt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_proovikontrolltoo1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_kontrolltoo1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
