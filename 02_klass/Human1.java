@@ -1,10 +1,10 @@
-public class Human {
+public class Human1 {
     String nimi;
     int vanus;
     double pikkus;
     boolean mees;
 
-    public Human(String nimi, int vanus, double pikkus, boolean mees) {
+    public Human1(String nimi, int vanus, double pikkus, boolean mees) {
         this.nimi = nimi;
         this.vanus = vanus;
         this.pikkus = pikkus;

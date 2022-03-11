@@ -1,8 +1,8 @@
 public class Tervitus {
-    Human human;
+    Human1 human;
     String tervitus;
 
-    public Tervitus(Human human, String tervitus){
+    public Tervitus(Human1 human, String tervitus){
         this.human = human;
         this.tervitus = tervitus;
     }
