@@ -11,17 +11,17 @@ public class Human {
         this.mees = mees;
     }
 
-    public void sayHello(){
-        System.out.println(nimi + " Hello");
-    }
+    //public void sayHello(){
+        //System.out.println(nimi + " Hello");
+    //}
     //to ---> võtan toString() --> enter
     @Override
     public String toString() {
-        return "Human{" +
-                "nimi='" + nimi + '\'' +
-                ", vanus=" + vanus +
-                ", pikkus=" + pikkus +
-                ", mees=" + mees +
-                '}';
+        return "Inimese andmed:" +
+                "nimi:" + nimi +
+                ", vanus:" + vanus +
+                ", pikkus:" + pikkus +
+                ", mees=" + mees + "."
+                ;
     }
 }
