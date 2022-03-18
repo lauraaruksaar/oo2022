@@ -1,3 +1,1 @@
-Õppejõu käest valitud kolme tasemega kontrolltööülesanne.
-
-Punktid võib esitada eraldi programmidena
+Omaloodud liides või liideste komplekt. Realiseerivad klassid. Näitprogramm
