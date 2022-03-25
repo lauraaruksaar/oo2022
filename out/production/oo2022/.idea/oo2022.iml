@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04_proovikontrolltoo1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_kontrolltoo1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_liides" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_junit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_alamklassid" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

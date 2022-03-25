@@ -1,3 +1,5 @@
+//abstract -- ei saa teha new Character(); - uut instantsi
+
 public abstract class Character {
     int coordinateY;
     int coordinateX;

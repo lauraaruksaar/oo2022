@@ -1,1 +1,1 @@
-Omaloodud liides või liideste komplekt. Realiseerivad klassid. Näitprogramm
+Alamklasside puu koos realiseerivate klasside ning näitprogrammiga
