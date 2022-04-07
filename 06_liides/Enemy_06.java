@@ -5,4 +5,3 @@ public class Enemy_06 extends Character implements WorldObject {
 
     }
 }
- //proov
