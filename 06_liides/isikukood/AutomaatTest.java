@@ -1,6 +1,8 @@
 package isikukood;
 import kujundid.Kolmnurk;
 import org.junit.Test;
+
+import static kotlin.test.AssertionsKt.assertEquals;
 import static org.junit.Assert.assertEquals;
 
 public class AutomaatTest {
