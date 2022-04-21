@@ -1,2 +1,2 @@
-public class Cow extends FarmAnimal{
+public class Cow extends FarmAnimal {
 }

@@ -1,2 +1,2 @@
-public class WildAnimal extends Animal{
+public class WildAnimal extends Animal {
 }
