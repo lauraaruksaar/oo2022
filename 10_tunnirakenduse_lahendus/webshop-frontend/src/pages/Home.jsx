@@ -4,7 +4,7 @@ function Home() {
     const [products,setProducts] = useState([]); // Reacti erikood -> 
                                                 //muutuja (HTMLi), funktsioon (HTMLi uuendamiseks), algväärtus (tühi massiiv)
     useEffect(()=>{ fetch("http://localhost:8080/products")
-    .then(responce => responce.json())
+    .then(response => response.json())
     .then(body => setProducts(body));},[]);
    
 
