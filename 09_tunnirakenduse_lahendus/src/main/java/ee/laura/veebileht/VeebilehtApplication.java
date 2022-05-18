@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VeebilehtApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(VeebilehtApplication.class, args);
+        SpringApplication.run(src.main.java.ee.student.veebileht.VeebilehtApplication.class, args);
     }
 
 }
