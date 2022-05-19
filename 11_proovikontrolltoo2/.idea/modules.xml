@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/11_proovikontrolltoo2.iml" filepath="$PROJECT_DIR$/.idea/11_proovikontrolltoo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animalsystem/animalsystem.iml" filepath="$PROJECT_DIR$/animalsystem/animalsystem.iml" />
     </modules>
   </component>
 </project>
